@@ -45,3 +45,4 @@ while True:
 
     else:
         print("Noto'g'ri tanlov!")
+        break
